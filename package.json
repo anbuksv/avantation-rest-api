@@ -1,0 +1,22 @@
+{
+  "name": "demo-todo-apis",
+  "version": "1.0.0",
+  "description": "Simple demo mock server for todo applications.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "restapi",
+    "express",
+    "jwt",
+    "demo"
+  ],
+  "author": "Anbarasan K <anbuksv@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.0",
+    "jsonwebtoken": "^8.4.0"
+  }
+}
